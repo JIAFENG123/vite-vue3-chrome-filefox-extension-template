@@ -1,4 +1,4 @@
-## vite vue3 chrome and firefox extension template 
+## vite vue3 tailwindcss chrome and firefox extension template 
 
 
 Run locally
